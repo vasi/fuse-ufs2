@@ -18,6 +18,7 @@
  */
 
 #include "fuse-ufs.h"
+#include <sys/sysmacros.h>
 
 int do_modetoufslag (mode_t mode)
 {
